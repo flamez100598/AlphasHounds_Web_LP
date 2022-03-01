@@ -1,0 +1,45 @@
+{
+  "name": "Creator",
+  "version": "1.0.0",
+  "description": "Creator Landing Page",
+  "author": {
+    "name": "Creator chain",
+    "email": "info@creatorchain.network",
+    "url": "https://creatorchain.network"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest",
+    "test:dev": "jest --watch"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "aos": "^2.3.4",
+    "nuxt": "^2.15.8",
+    "vue-i18n": "^8.26.5",
+    "vue-slick-carousel": "^1.0.6",
+    "vueperslides": "^2.15.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "@vue/test-utils": "^1.2.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^27.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "fibers": "^5.0.0",
+    "jest": "^27.1.0",
+    "jest-serializer-vue": "^2.0.2",
+    "prettier": "^2.3.2",
+    "sass": "^1.37.5",
+    "sass-loader": "10",
+    "vue-cli-plugin-vuetify": "~2.4.2",
+    "vue-jest": "^4.0.0-beta.5"
+  }
+}

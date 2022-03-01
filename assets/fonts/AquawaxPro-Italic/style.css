@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Aquawax Pro';
+    src: local('Aquawax Pro Italic'), local('Aquawax-Pro-Italic'),
+        url('AquawaxPro-Italic.woff2') format('woff2'),
+        url('AquawaxPro-Italic.woff') format('woff'),
+        url('AquawaxPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }

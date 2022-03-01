@@ -1,0 +1,42 @@
+@import url('~assets/fonts/AquawaxPro-Regular/style.css');
+@import url('~assets/fonts/AquawaxPro-Italic/style.css');
+
+.creator-text-base {
+  /* font-family: Poppins, sans-serif !important; */
+  transform: rotate(0.01deg);
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  letter-spacing: 0.75px;
+}
+@media screen and (max-width: 768px) {
+  [data-aos] {
+    pointer-events: auto !important;
+  }
+
+  html:not(.no-js) [data-aos^=fade][data-aos^=fade] {
+    opacity: 1 !important;
+  }
+
+  html:not(.no-js) [data-aos=fade-up] {
+    transform: none !important;
+  }
+  .md-hide {
+    display: none;
+  }
+  .md-mt-10 {
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width: 443px) {
+  .xs-screen-ml {
+    margin-left: 40px;
+  }
+
+  .xs-screen-mt-60 {
+    margin-top: 60px;
+  }
+  .xs-hide {
+    display: none;
+  }
+}

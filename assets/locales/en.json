@@ -1,0 +1,78 @@
+{
+  "banner": {
+    "Home": "HOME",
+    "Overview": "OVERVIEW",
+    "Roadmap": "ROADMAP",
+    "Description": "Earn Any Desired Token For Free",
+    "LaunchApp": "Launch App",
+    "FindOutMore": "Find our more"
+  },
+  "introduction": {
+    "title": "Generate Interest With Low Risk & High Return",
+    "descripton-1": "Stake stablecoins (USDT/USDC/DAI/BUSD etc) to earn ETH/BTC/BNB/DOT/etc for free. So you don’t BUY Bitcoin anymore, you EARN it.",
+    "descripton-2": "Then you can offset the risk of a ETH/BTC/BNB/DOT holder by staking them to earn stablecoins.",
+    "descripton-3": "Furthermore, you also can earn GOEN - the governing token of Goen Finance to decide significant improvements of the protocol, then earn other tokens as reward in return."
+  },
+  "mainFeature": {
+    "title": "Main Features",
+    "descripton-1": "新たなファイナンスプラットフォームであるGOENは、透明性を有し、収益性が高く、分かりやすい分散型システムです。GOENはステーキング、ファーミングから貸付まで、主体の機能をユーザーに提供できるように設計されています。",
+    "descripton-2": "それで、ETH/BTC/BNB/DOTなどを賭けて、ステーブルコインを獲得すると、ETH/BTC/BNB/DOT所有者のリスクを無くすことができます。",
+    "descripton-3": "さらに、$ GOEN（Goen Financeの管理トークン）を獲得して、プロトコルの大幅な改善を決定することができます。そして、報酬として他のトークンを獲得することもできます。",
+    "stakingService": "Staking Service",
+    "stakingSerivce-content": "Allows users to farm any token on demand and earn multiple tokens as rewards from various default pools (Stable coin pool, CAKE pool, Custom pool)",
+    "LendingService": "Lending Service",
+    "LendingService-content": "Allows users to collateralize any eligible token (must be whitelisted first) to borrow stable coins (or CAKE or other tokens) and join the staking pools above.",
+    "Portfolio": "Portfolio",
+    "Management": "Management",
+    "Portfolio-content": "Allows any investor to diversify their investment portfolio and better manage the value of their assets." 
+
+  },
+  "EcoSystem": {
+    "title": "EcoSystem",
+    "Description": "The main objective of GOEN- DeFi platforms is to decentralize theinvestment and trading process. One of the central attractions here isthat these solutions offer higher transparency compared to traditionalfinancial institutions.",
+    "More": "“Over 7 billion people in the world can access better finance. Why do we leave them behind?”"
+  },
+  "Tokenomic": {
+    "title": "Tokenomic",
+    "Description-1": "GOEN token will be used to ",
+    "Description-2": "Govern and stake GOEN protocol to earn rewards in different tokens and Marketing/Growth activities.",
+    "totalSupply": "TOTAL SUPPLY"
+  },
+  "RoadMap": {
+    "title": "Roadmap",
+    "Q4": {
+      "date": "Q4/2021",
+      "line1": "Define specification",
+      "line2": "UI/UX design",
+      "line3": "Token sale",
+      "line4": "Retroactive airdrop",
+      "line5": "Stable coin pool ",
+      "line6": "CAKE pools",
+      "line7": "Governance vault"
+    },
+    "Q1": {
+      "date": "Q1/2022",
+      "line1": "Enable other pools",
+      "line2": "Partnership",
+      "line3": "Listing on exchanges",
+      "line4": "Governing functions"
+    },
+    "Q2": {
+      "date": "Q2/2022",
+      "line1": "Custom Pools",
+      "line2": "Custom Lending",
+      "line3": "Support other chains (Polygon/Hecochain",
+      "line3-2": "/Avalanche/Solana)",
+      "line4": "Other DeFi apps/crypto wallets integration"
+    },
+    "Q4-2": {
+      "date": "Q4/2022",
+      "line1": "Portfolio management",
+      "line2": "Fiat on/off-ramp",
+      "line3": "Mobile app"
+    }
+  },
+  "Backer": {
+    "title": "Backers"
+  }
+}
