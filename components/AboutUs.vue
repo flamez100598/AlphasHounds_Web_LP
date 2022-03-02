@@ -26,7 +26,7 @@ import FeatureRight from '@/components/FeatureRight'
 import FeatureLeft from '@/components/FeatureLeft'
 
 export default {
-  name: 'Features',
+  name: 'About Us',
   components: {
     'feature-right': FeatureRight,
     'feature-left': FeatureLeft

@@ -2,14 +2,15 @@
   <div class="w-full text-white">
     <div id='home'>
       <banner
-        @goIntroduce="goTo('introduce')"
+        @goAboutUs="goTo('AboutUs')"
         @goToHome="goTo('home')"
+        @goToRacerClasses="goTo('RacerClasses')"
         @goToOverView="goTo('overview')"
         @goToRoadMap="goTo('roadmap')"
         @goToTechBlog="goTo('techblog')"
       />
-      <introduce id="introduce" />
-      <main-features />
+      <AboutUs id="AboutUs" />
+      <RacerClasses id="RacerClasses" />
     </div>
     <div id='overview'>
       <features />
@@ -35,8 +36,8 @@
 </template>
 
 <script>
-import Introduce from '@/components/Introduce'
-import MainFeatures from '@/components/MainFeatures.vue'
+import AboutUs from '@/components/AboutUs'
+import RacerClasses from '~/components/RacerClasses.vue'
 import Features from '@/components/Features'
 import Banner from '@/components/Banner'
 import RoadMap from '~/components/RoadMap'
@@ -48,8 +49,8 @@ import Tokenomic from '~/components/Tokenomic.vue'
 export default {
   name: 'LandingPage',
   components: {
-    Introduce,
-    MainFeatures,
+    AboutUs,
+    RacerClasses,
     features: Features,
     banner: Banner,
     roadmap: RoadMap,
